@@ -4,11 +4,13 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] name;
+        int count = 5;
 
-        while(1) {
+        while(true) {
             System.out.print("아기사자 수를 입력 : ");
-            int count = sc.nextInt();
+            count = sc.nextInt();
             sc.nextLine();
+            name = new String[count];
             if(count > 4){
                 break;
             }else{
@@ -21,10 +23,11 @@ public class Main {
             name[i] = sc.nextLine();
         }
 
+        System.out.println("[아기사자 명단 출력]");
+
         for(int i = 0;i<count;i++) {
             System.out.println((i + 1) + "번 아기사자 : " + name[i]);
         }
 
-        System.out.println("Hello, LikeLion!3");
     }
 }
