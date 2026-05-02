@@ -33,7 +33,7 @@ public class step1 {
         System.out.println("✅ 아기사자 객체를 성공적으로 생성하였습니다.");
         System.out.println("🦁 아기사자 정보를 출력합니다.");
         System.out.println("⏭️ 입력값 검증을 통과하여 아기사자 객체 생성을 진행합니다.");
-        System.out.println("👤 이름: " + lion.name + " | 🎓 전공: " + lion.major + " | 📌 기수: (접근 권한 없음)");
+        System.out.println("👤 이름: " + lion.name + " | 🎓 전공: " + lion.major + " | 📌 기수: " + lion.generation);
 
         return;
     }

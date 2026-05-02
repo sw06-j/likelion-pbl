@@ -3,8 +3,8 @@ package package1;
 public class Lion {
 
     public String name;
-    String major;
-    private int generation;
+    public String major;
+    public int generation;
 
     public Lion(String name, String major, int generation) {
         this.name = name;

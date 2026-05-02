@@ -26,7 +26,7 @@ public class step2 {
         if (result.startsWith("❌")) {
             System.out.println("❌ 잘못된 아기사자 정보입니다.");
         } else {
-            System.out.println("👤 이름: " + lion.name + " | 🎓 전공: " + lion.major + "📌 기수 : (접근 권한 없음)");
+            System.out.println("👤 이름: " + lion.name + " | 🎓 전공: " + lion.major + " | 📌 기수: " + lion.generation);
         }
     }
 }
