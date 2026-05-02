@@ -18,7 +18,7 @@ public class step3 {
         System.out.println("✅ public 필드 접근 성공");
 
         System.out.println("🦁 아기사자 정보를 출력합니다.");
-        System.out.println("👤 이름: " + lion.name);
+        System.out.println("👤 이름: " + lion.name + " | 🎓 전공: (접근 권한 없음) 📌 기수 : (접근 권한 없음)");
         // 전공, 기수는 접근 권한때문에 구현하지 않음
     }
 }
