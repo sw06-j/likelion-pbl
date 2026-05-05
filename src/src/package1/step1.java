@@ -1,3 +1,4 @@
+/*
 package package1;
 
 import java.util.Scanner;
@@ -38,3 +39,4 @@ public class step1 {
         return;
     }
 }
+*/

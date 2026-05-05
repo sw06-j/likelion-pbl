@@ -1,3 +1,4 @@
+/*
 package package1;
 
 public class Lion {
@@ -25,3 +26,6 @@ public class Lion {
         return "✅ 적절한 아기사자 정보입니다.";
     }
 }
+
+
+ */

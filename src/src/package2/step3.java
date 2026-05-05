@@ -1,3 +1,4 @@
+/*
 package package2;
 
 import package1.Lion;
@@ -22,3 +23,5 @@ public class step3 {
         // 전공, 기수는 접근 권한때문에 구현하지 않음
     }
 }
+
+ */
