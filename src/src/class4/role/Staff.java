@@ -1,7 +1,7 @@
-/*
-package class3.role;
+package class4.role;
 
-import class3.policy.*;
+import class4.policy.MemberPolicy;
+import class4.policy.StaffPolicy;
 
 public class Staff extends Member {
     private String position;
@@ -22,5 +22,3 @@ public class Staff extends Member {
                 getName(), getMajor(), getGeneration(), getPart(), position);
     }
 }
-
- */

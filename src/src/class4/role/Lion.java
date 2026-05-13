@@ -1,7 +1,7 @@
-/*
-package class3.role;
+package class4.role;
 
-import class3.policy.*;
+import class4.policy.LionPolicy;
+import class4.policy.MemberPolicy;
 
 public class Lion extends Member {
     private String studentId;
@@ -22,5 +22,3 @@ public class Lion extends Member {
                 getName(), getMajor(), getGeneration(), getPart(), studentId);
     }
 }
-
- */

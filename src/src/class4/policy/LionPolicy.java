@@ -1,7 +1,6 @@
-/*
 // LionPolicy.java
-package class3.policy;
+package class4.policy;
+
 public class LionPolicy implements MemberPolicy {
     @Override public boolean isSubmittable() { return true; }
 }
-*/

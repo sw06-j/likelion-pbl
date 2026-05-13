@@ -1,7 +1,6 @@
-/*
-package class3.role;
+package class4.role;
 
-import class3.policy.MemberPolicy;
+import class4.policy.MemberPolicy;
 
 public abstract class Member {
     private String name;
@@ -29,5 +28,3 @@ public abstract class Member {
         return getPolicy().isSubmittable();
     }
 }
-
- */

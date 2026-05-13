@@ -1,3 +1,4 @@
+/*
 package class3;
 
 import class3.role.*;
@@ -42,3 +43,5 @@ public class Main {
         sc.close();
     }
 }
+
+ */
